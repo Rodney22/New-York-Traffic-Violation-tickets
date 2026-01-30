@@ -15,6 +15,8 @@ This project analyzes traffic violation tickets issued in New York City during 2
 - CSV-based traffic violation dataset
 - Data cleaning and aggregation in Tableau
 
+## 🖼 Preview
+
 <img width="1395" height="1034" alt="Screenshot 2026-01-30 014631" src="https://github.com/user-attachments/assets/154c7650-8b95-4a64-beb6-c3c772e8b73f" />
 <img width="1287" height="984" alt="Screenshot 2026-01-30 014539" src="https://github.com/user-attachments/assets/fa52376f-6c3d-4821-b94e-5dff4400cfb1" />
 <img width="1286" height="998" alt="Screenshot 2026-01-30 014448" src="https://github.com/user-attachments/assets/c1b13ef3-768b-467c-8a37-b9ba08095786" />
